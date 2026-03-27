@@ -30,3 +30,8 @@ ArabicMWPs is designed to evaluate basic arithmetic reasoning capabilities of la
 
 This dataset is derived from AddSub (Hosseini et al., 2014) and MultiArith (Roy & Roth, 2016), and adapted for Arabic NLP research.
 
+## Citation
+
+Please cite the following when using this dataset:
+
+Alenezi, R., & Salman, A. (2025). *ArabicMWPs Dataset*. Available at: https://github.com/ReemAlenezi/ArabicMWPs
