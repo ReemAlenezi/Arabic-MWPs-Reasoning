@@ -7,3 +7,10 @@ This repository provides three Arabic mathematical reasoning datasets:
 - **ArabicMWPs**: Translated dataset from AddSub and MultiArith  
 
 All datasets are located in the `datasets/` directory.
+
+## Citation
+
+If you use this work, please cite:
+
+Alenezi, R., & Salman, A. (2025). *Arabic MWP Reasoning Datasets*.  
+Available at: https://github.com/ReemAlenezi/Arabic-MWPs-Reasoning
