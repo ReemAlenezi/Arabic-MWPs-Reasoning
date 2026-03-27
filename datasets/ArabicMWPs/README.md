@@ -20,14 +20,9 @@ This dataset is designed to evaluate arithmetic reasoning capabilities of large 
 
 ## Notes
 This dataset is derived from AddSub (Hosseini et al., 2014) and MultiArith (Roy & Roth, 2016).
-
 ## Citation
 
 If you use this dataset, please cite:
 
-@misc{alenezi2025arabicmwps,
-author = {Reem Alenezi and Ayed Salman},
-title = {ArabicMWPs Dataset},
-year = {2025},
-url = {https://github.com/ReemAlenezi/Arabic-MWPs-Reasoning}
-}
+Alenezi, R., & Salman, A. (2025). *ArabicMWPs Dataset*.  
+Available at: https://github.com/ReemAlenezi/Arabic-MWPs-Reasoning
