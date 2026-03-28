@@ -1,0 +1,27 @@
+Dataset,Model,Method,Accuracy,BERTScore_F1
+AGSM8K,GPT-4o,Self-consistency (K=40),97.65,71.50
+AGSM8K,GPT-4o,Zero-shot CoT,95.07,
+AGSM8K,GPT-4o,Manual CoT,94.47,
+
+AGSM8K,GPT-4o-mini,Self-consistency (K=40),91.36,
+AGSM8K,GPT-4o-mini,Zero-shot CoT,86.50,
+AGSM8K,GPT-4o-mini,Manual CoT,79.53,
+
+AGSM8K,GPT-3.5-turbo,Self-consistency (K=40),70.58,
+AGSM8K,GPT-3.5-turbo,Zero-shot CoT,58.33,
+AGSM8K,GPT-3.5-turbo,Manual CoT,52.91,
+
+AGSM8K,O3-mini,Self-consistency (K=40),96.13,
+AGSM8K,O3-mini,Zero-shot CoT,94.85,
+AGSM8K,O3-mini,Manual CoT,93.94,
+
+AGSM8K,Llama-3.1-8B,Self-consistency (K=40),56.06,
+AGSM8K,Llama-3.1-8B,Zero-shot CoT,35.48,
+AGSM8K,Llama-3.1-8B,Manual CoT,36.09,
+
+AGSM8K,Qwen2.5-Coder,Self-consistency (K=40),26.35,
+AGSM8K,Qwen2.5-Coder,Zero-shot CoT,21.91,
+AGSM8K,Qwen2.5-Coder,Manual CoT,18.27,
+
+AGSM8K,ALLaM-7B,Zero-shot CoT,38.52,
+AGSM8K,ALLaM-7B,Manual CoT,42.38,
