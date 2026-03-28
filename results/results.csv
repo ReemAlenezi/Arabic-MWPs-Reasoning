@@ -1,6 +1,4 @@
 Dataset,Model,Method,Accuracy,BERTScore_F1
-AGSM8K,GPT-4o,Self-consistency (K=10),95.22
-AGSM8K,GPT-4o,Self-consistency (K=20),96.29
 AGSM8K,GPT-4o,Self-consistency (K=40),97.65,71.50
 AGSM8K,GPT-4o,Zero-shot CoT,95.07,
 AGSM8K,GPT-4o,Manual CoT,94.47,
