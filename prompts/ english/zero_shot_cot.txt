@@ -1,4 +1,0 @@
-Question:
-{question}
-
-Let's think step by step.
