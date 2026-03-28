@@ -1,4 +1,5 @@
 Eight manually exemplars for arithmetic reasoning task for GSM8K in English
+
 question: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?
 answer: We start with 15 trees. Later we have 21 trees. The difference must be the number of trees they planted. So, they must have planted 21 - 15 = 6 trees. The answer is 6.
 question: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?
