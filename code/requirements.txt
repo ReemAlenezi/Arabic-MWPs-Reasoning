@@ -1,0 +1,8 @@
+pandas
+tqdm
+langchain
+langchain-openai
+pydantic
+datasets
+bert-score
+openpyxl
